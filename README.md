@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering in Kirinyaga University, Kenya.
 - 🎓 &nbsp; Studying Software Engineering in The ALX-Africa Program.
-- 💼 &nbsp; Currently Working on local projects, oprn for new opportunities.
+- 💼 &nbsp; Currently Working on local projects, open for new opportunities.
 - 🌱 &nbsp; Learning more about Back-end application development, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and music as hobbies.
 
@@ -41,9 +41,9 @@
 
 <br/>
 
-<a href="https://github.com/KingKidd41110">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/KingKidd4110">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingKidd4110&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingKidd4110&theme=buefy&layout=compact" />
 </a>
 
 <br/>
