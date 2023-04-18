@@ -1,10 +1,10 @@
-<h2> 👋 Hey there! I'm Brian Ayienda, @KingKidd4110.</h2>
+<h2> 👋 Hey there! I'm Brian Ayienda.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering in Kirinyaga University, Kenya.
-- - 🎓 &nbsp; Studying Software Engineering in The ALX-Africa Program.
+- 🎓 &nbsp; Studying Software Engineering in The ALX-Africa Program.
 - 💼 &nbsp; Currently Working on local projects, oprn for new opportunities.
 - 🌱 &nbsp; Learning more about Back-end application development, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and music as hobbies.
