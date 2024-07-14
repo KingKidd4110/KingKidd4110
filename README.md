@@ -51,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kingkidd.pythonanywhere.com/"><img alt="Website" src="https://img.shields.io/kingkidd.pythonanywhere.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://kingkidd.pythonanywhere.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://kingkidd.pythonanywhere.com/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/brian-ayienda-0448661a2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brian%20Ayienda-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/king_kidd._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-king_kid._-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ayiendabrian@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayiendabrian@gmail.com-blue?style=flat-square&logo=gmail"></a>
