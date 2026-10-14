@@ -1,4 +1,4 @@
-<h2> 👋 Hey there! I'm Brian Ayienda.</h2>
+<h2> 👋 Hey there! I'm kingkidd.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
